@@ -1,0 +1,30 @@
+.bday-message {
+    background-color: rgb(103, 87, 175);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 5%;
+    font-size: 2vw;
+    font-weight: bold;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    z-index: 999;
+    text-align: center;
+    float: left;
+}
+
+.bday-submsg {
+    background-color: rgb(103, 87, 175);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 5%;
+    font-size: 1vw;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    z-index: 999;
+    text-align: center;
+    float: left;
+}
