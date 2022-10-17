@@ -1,0 +1,21 @@
+# compiled output  
+happy-bday/dist  
+happy-bday/tmp  
+happy-bday/out-tsc  
+
+# dependencies  
+happy-bday/node_modules  
+
+# misc  
+happy-bday/.sass-cache  
+happy-bday/connect.lock  
+happy-bday/coverage  
+happy-bday/libpeerconnection.log  
+npm-debug.log  
+yarn-error.log  
+testem.log  
+happy-bday/typings  
+  
+# System Files  
+.DS_Store  
+Thumbs.db  
