@@ -13,20 +13,17 @@ button {
     border-radius: 4px;
     cursor: pointer;
     color: rgb(255, 255, 255);
-    font-size: 1.2rem;
-    padding: 1rem;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
+    font-size: 4vw;
+    padding: 0.1rem;
     outline-width: thick;
     outline-color: black;
     outline-style: solid;
 
     position: absolute;
-    top: 60%;
-    left: 45%;
-    width: 10%;
-    height: 10%;
+    top: 70%;
+    left: 40%;
+    width: 20%;
+    height: 20%;
     z-index: 999;
 }
 
