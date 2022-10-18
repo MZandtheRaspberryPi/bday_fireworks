@@ -2,6 +2,10 @@
   <button (click)="start()">It's my Birthday!</button>
 </div>
 
-<app-bday-message @ngIfAnimation *ngIf="is_msg_viewable"></app-bday-message>
+<app-bday-message @ngIfAnimation *ngIf="is_msg_viewable"> </app-bday-message>
+
+<div *ngIf="is_bday_button_visible">
+  <button (click)="finale()">I'm a badass!</button>
+</div>
 
 <ng-fireworks #fireworks="ngFireworks" [options]="options" class="fireworks" *ngIf="enabled"></ng-fireworks>

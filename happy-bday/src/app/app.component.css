@@ -18,9 +18,12 @@ button {
     margin-right: 1rem;
     margin-bottom: 1rem;
     margin-top: 1rem;
+    outline-width: thick;
+    outline-color: black;
+    outline-style: solid;
 
     position: absolute;
-    top: 45%;
+    top: 60%;
     left: 45%;
     width: 10%;
     height: 10%;

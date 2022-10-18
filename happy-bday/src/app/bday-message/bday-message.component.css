@@ -1,5 +1,5 @@
 .bday-message {
-    background-color: rgb(103, 87, 175);
+    background-color: rgb(50, 0, 107);
     color: rgb(255, 255, 255);
     position: absolute;
     border-radius: 5%;
@@ -15,7 +15,7 @@
 }
 
 .bday-submsg {
-    background-color: rgb(103, 87, 175);
+    background-color: rgb(50, 0, 107);
     color: rgb(255, 255, 255);
     position: absolute;
     border-radius: 5%;
